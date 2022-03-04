@@ -1,0 +1,24 @@
+LIBRARY	"streamer"
+
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
+	ProcessTick
+	OnPlayerConnect
+	OnPlayerDisconnect
+	OnPlayerSpawn
+	OnPlayerRequestClass
+	OnPlayerEnterCheckpoint
+	OnPlayerLeaveCheckpoint
+	OnPlayerEnterRaceCheckpoint
+	OnPlayerLeaveRaceCheckpoint
+	OnPlayerPickUpPickup
+	OnPlayerEditObject
+	OnPlayerSelectObject
+	OnPlayerWeaponShot
+	OnPlayerGiveDamageActor
+	OnActorStreamIn
+	OnActorStreamOut
